@@ -11,6 +11,7 @@ namespace Test_001
         static void Main(string[] args)
         {
            // dwfdwfdfwfdwfw;
+           //лимлмлм л 
         }
     }
 }
